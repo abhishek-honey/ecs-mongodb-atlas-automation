@@ -1,0 +1,5 @@
+{
+    "name": "mongodb-atlas-private-key",
+    "value": "<private-key-value>",
+    "from_secret": false
+}

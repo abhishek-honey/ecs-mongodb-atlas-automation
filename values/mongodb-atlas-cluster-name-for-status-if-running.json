@@ -1,0 +1,5 @@
+{
+    "name": "mongodb-atlas-cluster-name-for-status-if-running",
+    "value": "<cluster-name>",
+    "from_secret": false
+}

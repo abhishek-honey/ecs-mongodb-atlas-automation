@@ -1,0 +1,5 @@
+{
+    "name": "ecs-task-defination-arn",
+    "value": "<arn-value>",
+    "from_secret": false
+}
